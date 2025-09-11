@@ -1,6 +1,6 @@
 .pixel-blast-container {
   position: fixed;
-  top: -155px; /* requested offset */
+  top: -100px; /* requested offset */
   left: 0;
   right: 0;
   width: 100%;
